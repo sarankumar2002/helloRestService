@@ -1,1 +1,1 @@
-This is sample hellow world rest service application
+This is sample hellow world rest service application.
